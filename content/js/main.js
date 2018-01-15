@@ -1,6 +1,6 @@
 import React,{Component} from "react";
 import ReactDom from "react-dom";
-require("../content/css/main.less")
+require("../css/main.less")
 class ComponentMain extends Component{
      render(){
          return <article>
